@@ -1,0 +1,1 @@
+Collection of education focused mobile apps created using [App Developer Copilot](https://marketplace.visualstudio.com/items?itemName=sindujaramaraj.app-developer-copilot) and powered by [Claude](claude.ai)
